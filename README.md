@@ -1,4 +1,4 @@
-# fluidddddd
+# it is ran on 2023 R1 Ansys Fluent
 
 dp0 and dpall same folder level
 
