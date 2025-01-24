@@ -18,4 +18,4 @@ update reference value
 
 rest the same then initialize and run
 
-see discord video tutorials same dated, and icloud pics same time zone!
+note to myself: see discord video tutorials same dated, and icloud pics same msg time as discord
